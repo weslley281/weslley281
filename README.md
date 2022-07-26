@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wesley Ferraz
+- 👋 Hi, I’m Weslley Ferraz
 - I know the languages HTML, CSS, Javascript, PHP and C#
 - 👀 I'm interested in learning Java and Kotlin
 - 🌱 I'm learning NodeJS, React, React Native and Python
