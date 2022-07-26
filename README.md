@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @weslley281
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Wesley Ferraz
+- I know the languages HTML, CSS, Javascript, PHP and C#
+- 👀 I'm interested in learning Java and Kotlin
+- 🌱 I'm learning NodeJS, React, React Native and Python
+- 💞️ I hope to one day work as a developer in a multinational company
+- I'm attending the College of Software Engineering and doing the Rocketsea Ignite Bootcamp -> Node, React and React Native
+- 📫 How to reach me weslleyhenrique800@gmail.com or "+55 65 981233996"
 
-<!---
-weslley281/weslley281 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
