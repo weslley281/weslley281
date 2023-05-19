@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Weslley Ferraz
-- 🦾 I have acknowledge in HTML, CSS, Javascript, NodeJs, React Native, C#, PHP and C#
+- 🦾 I have acknowledge in HTML, CSS, Javascript, NodeJs, React Native, PHP and C#
 - 🌱 I'm learning ReactJS, C, C++, Kotlin, Java and Python
 - 👀 I'm interested in Laravel, Machine Learning and AI
 - 💞️ I hope to one day work as a developer in a multinational company
