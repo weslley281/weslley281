@@ -10,16 +10,17 @@ Bem-vindo ao meu mundo de códigos e criatividade, onde transformo linhas de tex
 Domino várias tecnologias, incluindo:
 
 - Desenvolvimento Web: HTML, CSS, JavaScript
-- Backend: Node.js, PHP, C#
+- Backend: Node.js, PHP, C#, Java
 - Mobile: React Native, Kotlin
-- Prendendo: ReactJS, C, C++, Java, Python
+- Prendendo: ReactJS, C, C++, Python
 
 <!-- Interesses -->
 ## 🌟 Interesses
 
 Meu foco está em:
 
-- Desenvolvimento com Laravel
+- Desenvolvimento com Node
+- Desenvolvimento Mobile
 - Analise de Dados
 - Aprendizado de Máquina (Machine Learning)
 - Inteligência Artificial (AI)
