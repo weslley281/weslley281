@@ -1,11 +1,11 @@
 <!-- Título -->
-<h1>Olá, eu sou Weslley Henrique Vieira Ferraz Ferraz! 👋</h1>
-<h2>Tenho 28 anos</h2>
+<h1>Olá, eu sou Weslley Henrique Vieira Ferraz! 👋</h1>
+<h2>Tenho 28 anos de idadede</h2>
 <h3>Já desenvolvi alguns projetos</h3>
-<h3> Eu gosto muito da área de programação, porém eu amo mais ainda a área de redes de computadore e hardware</h3>
+<h3>Amo programação, mas também sou apaixonado por redes de computadores e hardware</h3>
 
 <!-- Descrição -->
-E bem-vindo ao meu mundo de códigos e criatividade, onde transformo linhas de texto em soluções incríveis.
+Bem-vindo ao meu mundo de códigos e criatividade, onde transformo linhas de texto em soluções incríveis.
 Estou cursando o quarto semestre de Engenharia de Software na Universidade Estácio.
 
 <!-- Conhecimentos -->
@@ -18,18 +18,31 @@ Domino várias tecnologias, incluindo:
 - Mobile: React Native e Kotlin
 - Linguagens: PHP, Java, C#, Typescript e Python
 
-Já concluí alguns bootcamps na area de desenvolvimento como:
+Concluí alguns bootcamps na área de desenvolvimento, como:
 
-- Code Update TQI - Backend com Kotlin e Java -> Digital Innovation One ☕
-- Santander Bootcamp 2023 - Backend Java -> Digital Innovation One 🌟
-- NodeJS -> Ignite - Rocketseat 🚀
-- ReactJS -> Ignite - Rocketseat 🚀
-- React Native -> Ignite - Rocketseat 🚀
+- Code Update TQI - Backend com Kotlin e Java (Digital Innovation One ☕)
+- Santander Bootcamp 2023 - Backend Java (Digital Innovation One 🌟)
+- NodeJS (Ignite - Rocketseat 🚀)
+- ReactJS (Ignite - Rocketseat 🚀)
+- React Native (Ignite - Rocketseat 🚀)
 
-Já fiz alguns cursos do Estudonalta como:
+Também realizei cursos no Estudonalta, tais como:
 
-Redes de Computadores, Segurança da Informação, Arquitetura de Computadores, Java, C#,
-Linguagem C, Python, Android Studio, Linux, Wordpress, PHP, HTML, CSS MySQL e Kotlin.
+- Redes de Computadores
+- Segurança da Informação
+- Arquitetura de Computadores
+- Java
+- C#
+- Linguagem C
+- Python
+- Android Studio
+- Linux
+- Wordpress
+- PHP
+- HTML
+- CSS
+- MySQL
+- Kotlin
 
 Possuo as seguintes certificações:
 
@@ -44,21 +57,21 @@ Meu foco está em:
 
 - Desenvolvimento com Node, Laravel e Spring Boot
 - Desenvolvimento Mobile
-- Analise de Dados
+- Análise de Dados
 - Aprendizado de Máquina (Machine Learning)
 - Inteligência Artificial (AI)
 - Redes de Computadores
 
-Experiência em:
+Tenho experiência em:
 
 - Desenvolvimento Backend, Mobile e Frontend
 - Criação e manutenção de Redes de Computadores
-- Manuteção de computadores
+- Manutenção de computadores
 
 <!-- Objetivos -->
 ## 🚀 Objetivos
 
-Meu sonho é contribuir para projetos inovadores como desenvolvedor em uma empresa multi-nacional.
+Meu sonho é contribuir para projetos inovadores como desenvolvedor em uma empresa multinacional.
 
 <!-- Educação -->
 ## 🎓 Educação
