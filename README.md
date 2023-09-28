@@ -10,10 +10,10 @@ Estou cursando o quarto semestre de Engenharia de Software na Universidade Está
 
 Domino várias tecnologias, incluindo:
 
-- Desenvolvimento Web: HTML, CSS, JavaScript
-- Backend: Node.js, PHP, C#, Java
-- Mobile: React Native, Kotlin
-- Prendendo: ReactJS, C, C++, Python
+- Desenvolvimento Web: HTML, CSS, JavaScript e ReactJS
+- Backend: Node.js, Laravel e Spring Boot
+- Mobile: React Native e Kotlin
+- Linguagens: PHP, Java, C#, Typescript e Python
 
 <!-- Interesses -->
 ## 🌟 Interesses
