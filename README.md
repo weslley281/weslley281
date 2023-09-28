@@ -1,5 +1,8 @@
 <!-- Título -->
-# Olá, eu sou Weslley Ferraz! 👋
+# Olá, eu sou Weslley Henrique Vieira Ferraz Ferraz! 👋
+# Tenho 28 anos
+# Já desenvolvi alguns projetos
+# Eu gosto muito da área de programação, porém eu amo mais ainda a área de redes de computadore e hardware
 
 <!-- Descrição -->
 Bem-vindo ao meu mundo de códigos e criatividade, onde transformo linhas de texto em soluções incríveis.
@@ -14,6 +17,25 @@ Domino várias tecnologias, incluindo:
 - Backend: Node.js, Laravel e Spring Boot
 - Mobile: React Native e Kotlin
 - Linguagens: PHP, Java, C#, Typescript e Python
+
+Já concluí alguns bootcamps na area de desenvolvimento como:
+
+- Code Update TQI - Backend com Kotlin e Java -> Digital Innovation One ☕
+- Santander Bootcamp 2023 - Backend Java -> Digital Innovation One 🌟
+- NodeJS -> Ignite - Rocketseat 🚀
+- ReactJS -> Ignite - Rocketseat 🚀
+- React Native -> Ignite - Rocketseat 🚀
+
+Já fiz alguns cursos do Estudonalta como:
+
+Redes de Computadores, Segurança da Informação, Arquitetura de Computadores, Java, C#,
+Linguagem C, Python, Android Studio, Linux, Wordpress, PHP, HTML, CSS MySQL e Kotlin.
+
+Possuo as seguintes certificações:
+
+- Google IT Technical Support 🛠️
+- IBM Full Stack Software Developer 💼
+- IBM Cybersecurity Analyst 🔒
 
 <!-- Interesses -->
 ## 🌟 Interesses
