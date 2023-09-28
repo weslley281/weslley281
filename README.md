@@ -1,6 +1,6 @@
 <!-- Título -->
 <h1>Olá, eu sou Weslley Henrique Vieira Ferraz! 👋</h1>
-<h2>Tenho 28 anos de idadede</h2>
+<h2>Tenho 28 anos de idade</h2>
 <h3>Já desenvolvi alguns projetos</h3>
 <h3>Amo programação, mas também sou apaixonado por redes de computadores e hardware</h3>
 
