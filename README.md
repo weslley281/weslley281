@@ -3,6 +3,7 @@
 
 <!-- Descrição -->
 Bem-vindo ao meu mundo de códigos e criatividade, onde transformo linhas de texto em soluções incríveis.
+Estou cursando o quarto semestre de Engenharia de Software na Universidade Estácio.
 
 <!-- Conhecimentos -->
 ## 🛠️ Conhecimentos
