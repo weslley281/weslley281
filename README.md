@@ -20,22 +20,23 @@ Domino várias tecnologias, incluindo:
 
 Meu foco está em:
 
-- Desenvolvimento com Node
+- Desenvolvimento com Node, Laravel e Spring Boot
 - Desenvolvimento Mobile
 - Analise de Dados
 - Aprendizado de Máquina (Machine Learning)
 - Inteligência Artificial (AI)
+- Redes de Computadores
 
 Experiência em:
 
-- Desenvolvimento Backend
-- Desenvolvimento Mobile
-- Desenvilvimento Frontend
+- Desenvolvimento Backend, Mobile e Frontend
+- Criação e manutenção de Redes de Computadores
+- Manuteção de computadores
 
 <!-- Objetivos -->
 ## 🚀 Objetivos
 
-Meu sonho é contribuir para projetos inovadores como desenvolvedor em uma empresa global.
+Meu sonho é contribuir para projetos inovadores como desenvolvedor em uma empresa multi-nacional.
 
 <!-- Educação -->
 ## 🎓 Educação
