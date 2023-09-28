@@ -1,11 +1,11 @@
 <!-- Título -->
-# Olá, eu sou Weslley Henrique Vieira Ferraz Ferraz! 👋
-# Tenho 28 anos
-# Já desenvolvi alguns projetos
-# Eu gosto muito da área de programação, porém eu amo mais ainda a área de redes de computadore e hardware
+<h1>Olá, eu sou Weslley Henrique Vieira Ferraz Ferraz! 👋</h1>
+<h2>Tenho 28 anos</h2>
+<h3>Já desenvolvi alguns projetos</h3>
+<h3> Eu gosto muito da área de programação, porém eu amo mais ainda a área de redes de computadore e hardware</h3>
 
 <!-- Descrição -->
-Bem-vindo ao meu mundo de códigos e criatividade, onde transformo linhas de texto em soluções incríveis.
+E bem-vindo ao meu mundo de códigos e criatividade, onde transformo linhas de texto em soluções incríveis.
 Estou cursando o quarto semestre de Engenharia de Software na Universidade Estácio.
 
 <!-- Conhecimentos -->
