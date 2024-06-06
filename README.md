@@ -49,6 +49,10 @@ Possuo as seguintes certificações:
 - Google IT Technical Support 🛠️
 - IBM Full Stack Software Developer 💼
 - IBM Cybersecurity Analyst 🔒
+- Akamai Network Engineer
+- Administração  de Redes - CBO 2123-10
+- Aplicação da Melhoria Contínua
+- Programação de Sistemas de Informação
 
 <!-- Interesses -->
 ## 🌟 Interesses
