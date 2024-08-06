@@ -6,7 +6,7 @@
 
 <!-- Descrição -->
 Bem-vindo ao meu mundo de códigos e criatividade, onde transformo linhas de texto em soluções incríveis.
-Estou cursando o sexto semestre de Engenharia de Software na Universidade Estácio e sou técnico em redes.
+Estou cursando o sexto semestre de Engenharia de Software na Universidade Estácio e sou técnico em redes de computadores.
 
 <!-- Conhecimentos -->
 ## 🛠️ Conhecimentos
