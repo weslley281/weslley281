@@ -1,15 +1,25 @@
 <!-- Título -->
 <h1>Olá, eu sou Weslley Henrique Vieira Ferraz! 👋</h1>
-<h2>Tenho 28 anos de idade</h2>
+<h2>Tenho 29 anos de idade</h2>
 <h3>Já desenvolvi alguns projetos</h3>
 <h3>Amo programação, mas também sou apaixonado por redes de computadores e hardware</h3>
 
 <!-- Descrição -->
 Bem-vindo ao meu mundo de códigos e criatividade, onde transformo linhas de texto em soluções incríveis.
-Estou cursando o quarto semestre de Engenharia de Software na Universidade Estácio.
+Estou cursando o sexto semestre de Engenharia de Software na Universidade Estácio e sou técnico em redes.
 
 <!-- Conhecimentos -->
 ## 🛠️ Conhecimentos
+
+Possuo as seguintes certificações:
+
+- Google IT Technical Support 🛠️
+- IBM Full Stack Software Developer 💼
+- IBM Cybersecurity Analyst 🔒
+- Akamai Network Engineer
+- Administração  de Redes - CBO 2123-10
+- Aplicação da Melhoria Contínua
+- Programação de Sistemas de Informação
 
 Domino várias tecnologias, incluindo:
 
@@ -43,16 +53,6 @@ Também realizei cursos no Estudonalta, tais como:
 - CSS
 - MySQL
 - Kotlin
-
-Possuo as seguintes certificações:
-
-- Google IT Technical Support 🛠️
-- IBM Full Stack Software Developer 💼
-- IBM Cybersecurity Analyst 🔒
-- Akamai Network Engineer
-- Administração  de Redes - CBO 2123-10
-- Aplicação da Melhoria Contínua
-- Programação de Sistemas de Informação
 
 <!-- Interesses -->
 ## 🌟 Interesses
