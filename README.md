@@ -16,17 +16,17 @@ Possuo as seguintes certificações:
 - Google IT Technical Support 🛠️
 - IBM Full Stack Software Developer 💼
 - IBM Cybersecurity Analyst 🔒
-- Akamai Network Engineer
+- Engenheiro de Redes da Akamai
 - Administração  de Redes - CBO 2123-10
 - Aplicação da Melhoria Contínua
 - Programação de Sistemas de Informação
 
 Domino várias tecnologias, incluindo:
 
-- Desenvolvimento Web: HTML, CSS, JavaScript e ReactJS
-- Backend: Node.js, Laravel e Spring Boot
+- Desenvolvimento Web: HTML, CSS, JavaScript, Angular e ReactJS
+- Backend: NodeJS, Laravel e Spring Boot
 - Mobile: React Native e Kotlin
-- Linguagens: PHP, Java, C#, Typescript e Python
+- Linguagens: PHP, Java, C#, Typescript, C++ e Python
 
 Concluí alguns bootcamps na área de desenvolvimento, como:
 
@@ -89,7 +89,7 @@ Vamos nos conectar:
 
 - E-mail: weslleyhenrique800@gmail.com
 - Telefone: +55 65 999157130
-- WhatsApp: [+55 65 999157130](https://api.whatsapp.com/send/?phone=5565999157130)
+- WhatsApp: [+55 65 981233996](https://api.whatsapp.com/send/?phone=5565981233996)
 - LinkedIn: [Weslley Ferraz](https://www.linkedin.com/in/weslley-henrique-vieira-ferraz-8b95b3127/)
 
 <!-- Final -->
