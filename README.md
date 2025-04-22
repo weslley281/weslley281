@@ -13,13 +13,18 @@ Estou cursando o sétimo semestre de Engenharia de Software na Universidade Est�
 
 Possuo as seguintes certificações:
 
-- Google IT Technical Support 🛠️
-- IBM Full Stack Software Developer 💼
-- IBM Cybersecurity Analyst 🔒
-- Engenheiro de Redes da Akamai
-- Administração  de Redes - CBO 2123-10
-- Aplicação da Melhoria Contínua
-- Programação de Sistemas de Informação
+- 🛠️ Google IT Technical Support – Coursera  
+- 🔐 Google Cybersecurity – Coursera  
+- 💻 IBM Full Stack Software Developer – Coursera  
+- 🛡️ IBM Cybersecurity Analyst – Coursera  
+- ☁️ AWS re/Start Graduate – Escola da Nuvem  
+- 🌐 AWS Cloud Technology Consultant – Coursera  
+- 📱 Meta Android Developer – Coursera  
+- 🔧 Meta Back-End Developer – Coursera  
+- 🧠 Engenheiro de Redes da Akamai – Coursera  
+- 🖧 Administração de Redes – CBO 2123-10  
+- 📈 Aplicação da Melhoria Contínua – Estácio  
+- 🧾 Programação de Sistemas de Informação – Estácio  
 
 Domino várias tecnologias, incluindo:
 
