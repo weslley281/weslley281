@@ -2,11 +2,12 @@
 <h1>Olá, eu sou Weslley Henrique Vieira Ferraz! 👋</h1>
 <h2>Tenho 29 anos de idade</h2>
 <h3>Já desenvolvi alguns projetos</h3>
-<h3>Amo programação, mas também sou apaixonado por redes de computadores e hardware</h3>
+<h3>Amo programação, mas também sou apaixonado por redes de computadores, elétrica, eletrônica e hardware</h3>
 
 <!-- Descrição -->
 Bem-vindo ao meu mundo de códigos e criatividade, onde transformo linhas de texto em soluções incríveis.
-Estou cursando o sétimo semestre de Engenharia de Software na Universidade Estácio e sou técnico em informática, redes de computadores e eletrotécnica.
+Estou cursando o último semestre de Engenharia de Software na Universidade Estácio e sou técnico em informática, redes de computadores e eletrotécnica.
+Sou técnico em Redes de Computadore, informática e futaramente em eletrotécnica.
 
 <!-- Conhecimentos -->
 ## 🛠️ Conhecimentos
