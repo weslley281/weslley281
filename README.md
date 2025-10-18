@@ -1,104 +1,32 @@
-<!-- Título -->
-<h1>Olá, eu sou Weslley Henrique Vieira Ferraz! 👋</h1>
-<h2>Tenho 29 anos de idade</h2>
-<h3>Já desenvolvi alguns projetos</h3>
-<h3>Amo programação, mas também sou apaixonado por redes de computadores, elétrica, eletrônica e hardware</h3>
+<!-- Banner / Apresentação -->
+<h1 align="center">👨‍💻 Weslley Henrique Vieira Ferraz</h1>
+<p align="center">Desenvolvedor Full Stack • Analista de Redes • Entusiasta de Tecnologia</p>
 
-<!-- Descrição -->
-Bem-vindo ao meu mundo de códigos e criatividade, onde transformo linhas de texto em soluções incríveis.
-Estou cursando o último semestre de Engenharia de Software na Universidade Estácio e sou técnico em informática, redes de computadores e eletrotécnica.
-Sou técnico em Redes de Computadore, informática e futaramente em eletrotécnica.
+---
 
-<!-- Conhecimentos -->
-## 🛠️ Conhecimentos
+Sou um profissional apaixonado por tecnologia, movido pela curiosidade e pelo desejo constante de evoluir como pessoa e como desenvolvedor. Tenho 30 anos de idade e atualmente curso o <strong>último semestre de Engenharia de Software pela Universidade Estácio de Sá</strong>. Possuo formação <strong>técnico em Redes de Computadores, Informática, Manutenção de Computadores</strong> e estou em formação também como <strong>técnico em Eletrotécnica pelo IFMT</strong>. Ao longo da minha trajetória, desenvolvi projetos de software e também atuei na infraestrutura de TI, conciliando assim as áreas de desenvolvimento, redes e hardware com grande paixão e equilíbrio técnico.
 
-Possuo as seguintes certificações:
+Minha experiência envolve programação backend, frontend e mobile, criação e manutenção de redes de computadores e suporte técnico avançado. Ao longo dos anos, conquistei certificações relevantes que reforçam meu comprometimento com aprendizado contínuo e com a prática profissional sólida. Entre elas estão <strong>certificações da Google, IBM, AWS, Meta e Akamai</strong> nas áreas de desenvolvimento de software, computação em nuvem e segurança cibernética. Também concluí bootcamps intensivos como o Ignite da Rocketseat e programas de capacitação da Digital Innovation One, que consolidaram minhas habilidades em tecnologias como Java, Kotlin, Node.js, React, Laravel, Spring Boot, C#, Python e muito mais.
 
-- 🛠️ Google IT Technical Support – Coursera  
-- 🔐 Google Cybersecurity – Coursera  
-- 💻 IBM Full Stack Software Developer – Coursera  
-- 🛡️ IBM Cybersecurity Analyst – Coursera  
-- ☁️ AWS re/Start Graduate – Escola da Nuvem  
-- 🌐 AWS Cloud Technology Consultant – Coursera  
-- 📱 Meta Android Developer – Coursera  
-- 🔧 Meta Back-End Developer – Coursera  
-- 🧠 Engenheiro de Redes da Akamai – Coursera  
-- 🖧 Administração de Redes – CBO 2123-10  
-- 📈 Aplicação da Melhoria Contínua – Estácio  
-- 🧾 Programação de Sistemas de Informação – Estácio  
+Minha jornada no mundo da programação começou pela curiosidade e hoje representa um estilo de vida. Acredito que tecnologia é uma ferramenta poderosa para transformar realidades e criar soluções que impactem pessoas e empresas. Tenho profundo interesse por áreas como desenvolvimento backend, microsserviços, cloud computing, engenharia de software, análise de dados e inteligência artificial. Também sigo evoluindo na parte de redes, administração de infraestrutura e arquitetura de sistemas distribuídos.
 
-Domino várias tecnologias, incluindo:
+Profissionalmente, busco oportunidades desafiadoras que me permitam aplicar minhas habilidades, aprender com pessoas experientes e contribuir para projetos que realmente façam a diferença. Meu sonho é atuar na área de tecnologia em uma grande empresa nacional ou multinacional, preferencialmente trabalhando com inovação, pesquisa e desenvolvimento de soluções inteligentes.
 
-- Desenvolvimento Web: HTML, CSS, JavaScript, Angular e ReactJS
-- Backend: NodeJS, Laravel e Spring Boot
-- Mobile: React Native e Kotlin
-- Linguagens: PHP, Java, C#, Typescript, C++ e Python
+Fora do mundo dos códigos, também sou apaixonado por eletrônica, elétrica e computadores. Construo, reparo e monto máquinas por hobby desde cedo, o que me proporcionou uma visão prática sobre como software e hardware se conversam no mundo real. Levo comigo valores importantes como disciplina, foco, ética e humildade para aprender todos os dias. Sou movido por desafios e não descanso até encontrar soluções.
 
-Concluí alguns bootcamps na área de desenvolvimento, como:
+Se você leu até aqui, obrigado pela visita! Meu GitHub está em constante evolução e novos projetos estão chegando. Fique à vontade para explorar meu trabalho, entrar em contato e, quem sabe, colaborar comigo em algum projeto no futuro. A tecnologia é um universo infinito e estou apenas começando.
 
-- Code Update TQI - Backend com Kotlin e Java (Digital Innovation One ☕)
-- Santander Bootcamp 2023 - Backend Java (Digital Innovation One 🌟)
-- NodeJS (Ignite - Rocketseat 🚀)
-- ReactJS (Ignite - Rocketseat 🚀)
-- React Native (Ignite - Rocketseat 🚀)
+---
 
-Também realizei cursos no Estudonalta, tais como:
+### 🌐 Contato
 
-- Redes de Computadores
-- Segurança da Informação
-- Arquitetura de Computadores
-- Java
-- C#
-- Linguagem C
-- Python
-- Android Studio
-- Linux
-- Wordpress
-- PHP
-- HTML
-- CSS
-- MySQL
-- Kotlin
+📧 E-mail profissional: **weslleyhenrique800@gmail.com**  
+📱 WhatsApp: **https://api.whatsapp.com/send/?phone=5565981233996**  
+💼 LinkedIn: **https://www.linkedin.com/in/weslley-henrique-vieira-ferraz-8b95b3127**  
+🌎 Portfólio: **https://engenheirosoftwareweslley.com.br**  
 
-<!-- Interesses -->
-## 🌟 Interesses
+---
 
-Meu foco está em:
-
-- Desenvolvimento com Node, Laravel e Spring Boot
-- Desenvolvimento Mobile
-- Análise de Dados
-- Aprendizado de Máquina (Machine Learning)
-- Inteligência Artificial (AI)
-- Redes de Computadores
-
-Tenho experiência em:
-
-- Desenvolvimento Backend, Mobile e Frontend
-- Criação e manutenção de Redes de Computadores
-- Manutenção de computadores
-
-<!-- Objetivos -->
-## 🚀 Objetivos
-
-Meu sonho é contribuir para projetos inovadores como desenvolvedor em uma empresa multinacional.
-
-<!-- Educação -->
-## 🎓 Educação
-
-Atualmente, estou cursando "Engenharia de Software" na Universidade Estácio de Sá e mergulhando no "Rocketseat Ignite Bootcamp" para aprimorar minhas habilidades em Node, React e React Native.
-
-<!-- Contato -->
-## 📫 Contato
-
-Vamos nos conectar:
-
-- E-mail: weslleyhenrique800@gmail.com
-- Telefone: +55 65 999157130
-- WhatsApp: [+55 65 981233996](https://api.whatsapp.com/send/?phone=5565981233996)
-- LinkedIn: [Weslley Ferraz](https://www.linkedin.com/in/weslley-henrique-vieira-ferraz-8b95b3127/)
-
-<!-- Final -->
-## Finalmente...
-
-Obrigado por visitar meu perfil! Em breve, este GitHub estará repleto de projetos surpreendentes. Vamos construir o futuro juntos! ☺️🚀
+<p align="center">
+    <b>“O futuro pertence a quem nunca para de aprender.” 🚀</b>
+</p>
