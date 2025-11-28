@@ -56,7 +56,7 @@ Gosto de unir infraestrutura, código e segurança, criando soluções robustas 
 
 ## 🌐 Onde me encontrar
 - 🌎 **Site pessoal:** engenheirosoftwareweslley.com.br
-- 💼 **LinkedIn:** linkedin.com/in/weslley-henrique-vieira-ferraz-8b95b3127
+- 💼 **LinkedIn:** linkedin.com/in/engenheiro-weslley-ferraz
 - 🖥️ **GitHub:** github.com/weslley281
 - 📧 **E-mail:** weslleyhenrique800@gmail.com
 
