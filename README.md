@@ -11,14 +11,34 @@ Atuo desde **2014** como Suporte Técnico de TI, onde me especializei em infraes
 ---
 
 ## 💻 Sobre mim
-- 🧭 Gerente de Tecnologia da Informação (desde Nov/2025)
-- 🎓 Bacharelando em **Engenharia de Software** (Estácio)
+- 🧭 Gerente de Tecnologia da Informação (desde janeiro/2018)
+- 🎓 Bacharel em **Engenharia de Software** (Estácio)
 - 🎓 Técnico em **Redes de Computadores** (CPET, 1345h)
+- 🎓 Técnico em **Eletrotécnica** (IFMT)
+- 🎓 Pós Graduado **Gestão Fiscal e Tributária** (Estácio)
 - ☁️ Formado pelo programa **AWS re/Start**
 - 🛡️ Certificações e especializações IBM, Akamai, Google e Hackers do Bem
 - 🧩 Experiência em desenvolvimento backend e frontend, containers, CI/CD, arquitetura de redes e segurança
 - 🥋 Faixa preta em diversas artes marciais (disciplina é minha segunda natureza)
 - 🎯 Alvo profissional: atuar em tecnologia de sistemas críticos, especialmente no setor público estratégico brasileiro
+
+---
+
+## 🎓 Certificações Coursera
+
+Formações internacionais focadas em desenvolvimento de software, cloud, redes e cibersegurança, com trilhas completas, laboratórios práticos e projetos aplicados.
+
+🛡️ Cibersegurança
+🔐 Google Cybersecurity Professional Certificate
+🧠 IBM Cybersecurity Analyst Professional Certificate
+⚙️ IBM Full Stack Software Developer Professional Certificate
+🧩 Meta Back-End Developer Professional Certificate
+📱 Meta Android Developer Professional Certificate
+☁️ AWS Cloud Technology Consultant Professional Certificate
+🌐 Akamai Network Engineering Professional Certificate
+🛠️ Google IT Support Professional Certificate
+
+🔎 Nota: Todas as certificações acima são compostas por múltiplos cursos, projetos avaliados, desafios práticos e fundamentos alinhados às exigências reais do mercado global.
 
 ---
 
