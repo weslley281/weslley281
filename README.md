@@ -1,12 +1,12 @@
 <!-- Banner / Apresentação -->
 <h1 align="center">👨‍💻 Weslley Henrique Vieira Ferraz</h1>
-<p align="center">Desenvolvedor Full Stack • Analista de Redes • Entusiasta de Tecnologia</p>
+<p align="center">Engenheiro de Software especialista e BackEnd • Analista de Redes • Entusiasta de Tecnologia</p>
 
 # 👋 Olá! Eu sou o Engenheiro de Software Weslley
 
 Sou apaixonado por tecnologia, redes de computadores, segurança da informação e desenvolvimento de software. Minha caminhada começou cedo, entre cabos, roteadores e muito código, e desde então venho construindo uma trajetória consistente em TI, sempre combinando prática profissional com formação sólida e certificações técnicas.
 
-Atuo desde **2014** como Suporte Técnico de TI, onde me especializei em infraestrutura, redes, conectividade crítica e manutenção de ambientes produtivos. Paralelamente, desenvolvo uma trilha forte em **Engenharia de Software**, **Cloud Computing**, **DevOps** e **cibersegurança** até me tornar Gerente de Técnologia da Informação.
+Atuo desde **2014** como Gerente de Tecnologia da Informação, onde me especializei em infraestrutura, redes, conectividade crítica e manutenção de ambientes produtivos. Paralelamente, desenvolvo uma trilha forte em **Engenharia de Software**, **Cloud Computing**, **DevOps** e **cibersegurança** até me tornar Gerente de Tecnologia da Informação.
 
 ---
 
